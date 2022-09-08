@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x688F344e7d019452aEd6E829B39Df0Ed2e5ada76",
+  "SCAN_LINK": "https://bscscan.com/token/0x688f344e7d019452aed6e829b39df0ed2e5ada76",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BSC",
+    "ID": 56
+  },
+  "NFT_NAME": "Elka Test",
+  "SYMBOL": "Elka",
+  "MAX_SUPPLY": 35204,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/test",
+  "SHOW_BACKGROUND": true
+}
